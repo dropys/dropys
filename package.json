@@ -1,0 +1,19 @@
+{
+  "name": "dropys",
+  "version": "1.0.1",
+  "description": "The easiest way to airdrop! Select your NFT, select wallets, and airdrop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dropys/dropys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dropys/dropys/issues"
+  },
+  "homepage": "https://github.com/dropys/dropys#readme"
+}
